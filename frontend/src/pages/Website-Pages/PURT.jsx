@@ -9,11 +9,11 @@ import DetectPhoto from '../../assets/tassel_detection.png';
 import AnnotatePhoto from '../../assets/tassel_annotations.png';
 import DroneVideo from '../../assets/flight.mp4';
 
-import './PURT.css';
+import './research.css';
 
 function Purt() {
 	return (
-      <div className="purt">
+      <div className="r">
          <div className="intro-page">
             <img className="front-image" src={CornPhoto}></img>
             <div className="intro">

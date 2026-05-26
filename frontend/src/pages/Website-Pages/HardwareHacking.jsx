@@ -1,4 +1,4 @@
-import './HardwareHacking.css';
+import './research.css';
 import Components from "../../assets/components.jpeg";
 import Chip from "../../assets/chip.jpeg";
 import Network from "../../assets/networking.jpeg";
@@ -7,7 +7,7 @@ import Pi from "../../assets/Pi.jpeg";
 
 function HardwareHacking() {
    return (
-      <div className="hh">
+      <div className="r">
          <div className="intro-page">
             <img className="front-image" src={SmartCard}></img>
             <div className="intro">
